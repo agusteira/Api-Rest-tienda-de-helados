@@ -1,0 +1,14 @@
+[
+    {
+        "idCupon": "DESC1117",
+        "idDevolucion": 7495,
+        "porcentajeDescuento": 10,
+        "estado": "no usado"
+    },
+    {
+        "idCupon": "DESC6713",
+        "idDevolucion": 5677,
+        "porcentajeDescuento": 10,
+        "estado": "usado"
+    }
+]

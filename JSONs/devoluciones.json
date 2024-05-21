@@ -1,0 +1,14 @@
+[
+    {
+        "idDevolucion": 7040,
+        "NumeroPedido": "66496f4d206e3",
+        "CausaDeDevolucion": "el helado se esfumo sobre mi ",
+        "cupon": false
+    },
+    {
+        "idDevolucion": 7495,
+        "NumeroPedido": "6648ff345f4d6",
+        "CausaDeDevolucion": "miauu miau",
+        "cupon": true
+    }
+]
